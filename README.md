@@ -11,3 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 
 [website](https://www.linkedin.com/) . [linkedin](https://www.linkedin.com/in/maicon-silva-71687a86/) . [twitter](https://twitter.com/maiconwte) . [instagram](https://instagram.com/maiconwte) 
+
+## Visitors
+![Visitor Count](https://profile-counter.glitch.me/maiconnrs95/count.svg)
