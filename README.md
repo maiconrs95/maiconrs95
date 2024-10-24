@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on @ifood
+- 🔭 I’m currently working on @mercadolibre
 - 📫 How to reach me: maiconrs95@gmail.com
 - 😄 Pronouns: he/him
 
